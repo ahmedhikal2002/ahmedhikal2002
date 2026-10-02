@@ -1,6 +1,6 @@
 # Hey there, I'm [Ahmed Hikal](https://react-protofolio.web.app/) 👋
 
-**Full-stack Web Developer · CS Student ·**
+**Angular Developer ·ITI Full Stack .Net Trainee   · CS Student ·**
 
 
 <p align="center">
