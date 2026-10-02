@@ -11,7 +11,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-Frontend Developer focused on React.js and modern UI development.
+Frontend Developer focused on Angular and modern UI development.
 Currently studying .NET at ITI to strengthen my backend knowledge and grow as a Full-Stack Developer.
 Passionate about clean code, performance, and continuous learning.
 
